@@ -1,0 +1,30 @@
+_repo: Scott-s-Last-Expedition-Volume-I--13-Being-the-journals-of-Captain-R.-F.-Scott_11579
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Robert Falcon
+    alias: Scott, R. F. (Robert Falcon)
+    birthdate: 1868
+    deathdate: 1912
+    gutenberg_agent_id: '4033'
+    url: http://www.gutenberg.org/2009/agents/4033
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Falcon_Scott
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scott, Robert Falcon, 1868-1912 -- Diaries'
+- !lcsh 'Antarctica -- Discovery and exploration -- British'
+- !lcsh 'South Pole -- Discovery and exploration -- British'
+- !lcc 'G'
+- !lcsh 'Terra Nova (Ship)'
+- !lcsh 'British Antarctic ("Terra Nova") Expedition (1910-1913)'
+- GITenberg
+title: "Scott's Last Expedition Volume I\r\nBeing the journals of Captain R. F. Scott"
+url: http://www.gutenberg.org/ebooks/11579
